@@ -1,0 +1,39 @@
+h1 {color : blue ; font-size : 40px; text-align: center;}
+.aboutme {
+    background-color: yellow;
+    border: 2px solid orange;
+    font-size : 50px;
+    padding: 10px;
+}
+
+#bold {
+    border: 3px solid green;
+    font-weight: bolds;
+    padding: 15px;
+    font-weight: bold;
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+#content {
+    border: 3px solid blue;
+    width: 70%;
+    padding: 40px;
+    margin: 50px;
+    background-color: lightgray;
+}
+
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+.styled-image {
+    width: 300px;
+    height: auto;
+    border: 5px solid black;
+    border-radius: 10px;
+}
